@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04A4E7631B0C67F000899A46"
-               BuildableName = "ProjectForMc.app"
-               BlueprintName = "ProjectForMc"
-               ReferencedContainer = "container:ProjectForMc.xcodeproj">
+               BlueprintIdentifier = "049EE7171B0F727E004EC7B6"
+               BuildableName = "PublicProjectForMac.app"
+               BlueprintName = "PublicProjectForMac"
+               ReferencedContainer = "container:PublicProjectForMac.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04A4E77C1B0C67F000899A46"
-               BuildableName = "ProjectForMcTests.xctest"
-               BlueprintName = "ProjectForMcTests"
-               ReferencedContainer = "container:ProjectForMc.xcodeproj">
+               BlueprintIdentifier = "049EE7301B0F727F004EC7B6"
+               BuildableName = "PublicProjectForMacTests.xctest"
+               BlueprintName = "PublicProjectForMacTests"
+               ReferencedContainer = "container:PublicProjectForMac.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04A4E77C1B0C67F000899A46"
-               BuildableName = "ProjectForMcTests.xctest"
-               BlueprintName = "ProjectForMcTests"
-               ReferencedContainer = "container:ProjectForMc.xcodeproj">
+               BlueprintIdentifier = "049EE7301B0F727F004EC7B6"
+               BuildableName = "PublicProjectForMacTests.xctest"
+               BlueprintName = "PublicProjectForMacTests"
+               ReferencedContainer = "container:PublicProjectForMac.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04A4E7631B0C67F000899A46"
-            BuildableName = "ProjectForMc.app"
-            BlueprintName = "ProjectForMc"
-            ReferencedContainer = "container:ProjectForMc.xcodeproj">
+            BlueprintIdentifier = "049EE7171B0F727E004EC7B6"
+            BuildableName = "PublicProjectForMac.app"
+            BlueprintName = "PublicProjectForMac"
+            ReferencedContainer = "container:PublicProjectForMac.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04A4E7631B0C67F000899A46"
-            BuildableName = "ProjectForMc.app"
-            BlueprintName = "ProjectForMc"
-            ReferencedContainer = "container:ProjectForMc.xcodeproj">
+            BlueprintIdentifier = "049EE7171B0F727E004EC7B6"
+            BuildableName = "PublicProjectForMac.app"
+            BlueprintName = "PublicProjectForMac"
+            ReferencedContainer = "container:PublicProjectForMac.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04A4E7631B0C67F000899A46"
-            BuildableName = "ProjectForMc.app"
-            BlueprintName = "ProjectForMc"
-            ReferencedContainer = "container:ProjectForMc.xcodeproj">
+            BlueprintIdentifier = "049EE7171B0F727E004EC7B6"
+            BuildableName = "PublicProjectForMac.app"
+            BlueprintName = "PublicProjectForMac"
+            ReferencedContainer = "container:PublicProjectForMac.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

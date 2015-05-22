@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ProjectForMc.xcscheme</key>
+		<key>PublicProjectForMac.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>04A4E7631B0C67F000899A46</key>
+		<key>049EE7171B0F727E004EC7B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>04A4E77C1B0C67F000899A46</key>
+		<key>049EE7301B0F727F004EC7B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>

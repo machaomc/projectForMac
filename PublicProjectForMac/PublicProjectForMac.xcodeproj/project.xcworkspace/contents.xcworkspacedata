@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ProjectForMc.xcodeproj">
+      location = "self:PublicProjectForMac.xcodeproj">
    </FileRef>
 </Workspace>

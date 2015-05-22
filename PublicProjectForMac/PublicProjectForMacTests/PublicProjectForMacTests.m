@@ -1,19 +1,19 @@
 //
-//  ProjectForMcTests.m
-//  ProjectForMcTests
+//  PublicProjectForMacTests.m
+//  PublicProjectForMacTests
 //
-//  Created by Mac on 15/5/20.
+//  Created by Mac on 15/5/22.
 //  Copyright (c) 2015年 Mac. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface ProjectForMcTests : XCTestCase
+@interface PublicProjectForMacTests : XCTestCase
 
 @end
 
-@implementation ProjectForMcTests
+@implementation PublicProjectForMacTests
 
 - (void)setUp {
     [super setUp];
