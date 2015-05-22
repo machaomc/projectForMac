@@ -11,7 +11,7 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0B1CCC0E6FC8319B6C58079C2CC5EF2BD7ACD062</key>
-		<string>ssh://github.com/machaomc/projectForMac.git</string>
+		<string>https://github.com/machaomc/projectForMac.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>PublicProjectForMac/PublicProjectForMac.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/machaomc/projectForMac.git</string>
+	<string>https://github.com/machaomc/projectForMac.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
